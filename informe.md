@@ -1,4 +1,4 @@
-# Practica servidor web
+# Red de contenedores mysql y phomyadmin
 ## 1. Titulo
 Implementación de un servidor de bases de datos MySQL y su administración mediante phpMyAdmin usando Docker
 ## 2. Tiempo de duración
