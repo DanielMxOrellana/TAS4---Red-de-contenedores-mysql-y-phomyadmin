@@ -1,4 +1,4 @@
-# Red de contenedores mysql y phomyadmin
+# Red de contenedores mysql y phpmyadmin
 ## 1. Titulo
 Implementación de un servidor de bases de datos MySQL y su administración mediante phpMyAdmin usando Docker
 ## 2. Tiempo de duración
